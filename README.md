@@ -8,8 +8,8 @@ Este projeto é pessoal para estudo e aprofundamento em tecnologias Web
 
 ## Recursos
 
-* O aplicativo é um jogo de 3 vidas e 3 dificuldades.
-* O aplicativo foi desenvolvido com JavaScript puro, CSS e HTML.
+* O site é uma página estática para praticar html, css, e outras tecnologias mais básicas para solidificar conhecimento estruturais da web.
+* O site foi desenvolvido com JavaScript, CSS e HTML.
 
 ## Uso
 
